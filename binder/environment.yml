@@ -7,6 +7,6 @@ dependencies:
   - pandas
   - bokeh
   - rise
-  - plasmapy
+  - plasmapy >= 0.8.0
   - pip:
     - jupyter-contrib-nbextensions
