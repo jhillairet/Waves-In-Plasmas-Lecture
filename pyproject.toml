@@ -1,0 +1,15 @@
+[project]
+name = "waves-in-plasmas-lecture"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.4.9",
+    "jupyterlab-rise>=0.43.1",
+    "matplotlib>=3.10.6",
+    "numpy>=2.3.3",
+    "plasmapy>=2025.8.0",
+    "scipy>=1.16.2",
+]
